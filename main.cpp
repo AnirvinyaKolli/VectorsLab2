@@ -1,3 +1,8 @@
+/*
+Sai Anirvinya Kolli
+Vectors lab 2: iterators 
+Extra: using a struct
+*/
 #include <vector>
 #include <iostream>
 #include <string>
